@@ -1,0 +1,38 @@
+AMTGC Task 5 Verification — Latest Console Summary
+Source: manually transcribed from the user's EDA Playground console screenshot.
+Run shown in screenshot: 2026-10-15, 16:50 UTC (time shown in EDA Playground output screenshot).
+Important: This is a summary transcribed from a screenshot, not a full raw console transcript.
+Simulator shown in EDA Playground workflow: Icarus Verilog 12.0.
+
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+
+TASK 5 VERIFICATION
+Total checks       = 2124
+Passed checks      = 2124
+Failed checks      = 0
+Pedestrian events  = 110
+A pedestrian grants= 55
+B pedestrian grants= 55
+Emergency tests    = 6
+Density tests      = 5
+
+TASK 5 VERIFICATION PASS
+
+TASK 5 VERIFICATION SUMMARY
+Pedestrian events = 110
+A pedestrian grants = 55
+B pedestrian grants = 55
+Emergency tests = 6
+Density tests = 5
+Reset tests = 1
+Green-wave tests = 5
+Failed checks = 0
+
+TASK 5 VERIFICATION PASS
+./tb_full_verification.sv:722: $finish called at 4190000 (1ps)
+Finding VCD file...
+./dump.vcd
+Opening EPWave...
+Done

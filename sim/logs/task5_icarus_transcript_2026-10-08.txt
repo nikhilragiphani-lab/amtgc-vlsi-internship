@@ -1,0 +1,2141 @@
+[2026-10-08 17:23:54 UTC] iverilog '-Wall' '-g2012' design.sv testbench.sv  && unbuffer vvp a.out  
+VCD info: dumpfile dump.vcd opened for output.
+
+==========================================
+TEST 1: RESET
+==========================================
+[PASS] Reset: Junction A starts in NS GREEN state
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+
+==========================================
+TEST 2: NORMAL TRAFFIC
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A produces valid traffic phases
+[PASS] Junction B produces valid traffic phases
+
+==========================================
+TEST 3: DENSITY COMBINATIONS
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Density 0: A target is minimum green
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Density combination 1/2: A target valid
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Density combination 3/4: B target valid
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Density 5/5: both targets reach maximum
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Density 7/7: targets saturate at maximum
+
+==========================================
+TEST 4: DENSITY CHANGE
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Density change during operation handled safely
+
+==========================================
+TEST 5: PEDESTRIAN FAIRNESS
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Pedestrian arbiter grants Junction A
+[PASS] Pedestrian arbiter grants Junction B
+[PASS] Both pedestrian requesters receive service
+
+==========================================
+TEST 6: EMERGENCY
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Emergency forces Junction A all-red
+[PASS] Emergency forces Junction B all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+
+==========================================
+TEST 7: REPEATED EMERGENCY
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Repeated emergency: both junctions safely all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Repeated emergency: both junctions safely all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Repeated emergency: both junctions safely all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Repeated emergency: both junctions safely all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Emergency: Junction A is all-red
+[PASS] Emergency: Junction B is all-red
+[PASS] Repeated emergency: both junctions safely all-red
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+
+==========================================
+TEST 8: RESET DURING ACTIVE SIMULATION
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Reset during operation returns A to initial state
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+
+==========================================
+TEST 9: GREEN-WAVE STARTUP
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Green-wave: Junction B becomes enabled
+
+==========================================
+TEST 10: MAXIMUM DENSITY
+==========================================
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Maximum density: A green target saturates at 8
+[PASS] Maximum density: B green target saturates at 8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains within 3..8
+[PASS] Junction B green target remains within 3..8
+[PASS] Junction A: NS green and EW green are mutually exclusive
+[PASS] Junction B: NS green and EW green are mutually exclusive
+[PASS] Pedestrian arbiter never grants A and B simultaneously
+[PASS] Junction A green target remains withiFinding VCD file...
+./dump.vcd
+[2026-10-08 17:23:55 UTC] Opening EPWave...
+Done
